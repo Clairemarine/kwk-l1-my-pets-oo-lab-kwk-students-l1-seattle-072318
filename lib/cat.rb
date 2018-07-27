@@ -1,6 +1,7 @@
 class Cat
   
-  attr_reader 
+  attr_reader :name :mood
+  attr_writer :name :mood
  
  def initialize (name, mood)
    

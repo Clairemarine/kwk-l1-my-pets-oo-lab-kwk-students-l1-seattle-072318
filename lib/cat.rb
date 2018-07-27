@@ -11,3 +11,5 @@ class Cat
  end 
 end
 
+
+cat_one = 

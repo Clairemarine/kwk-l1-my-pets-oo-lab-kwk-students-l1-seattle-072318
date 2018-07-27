@@ -16,4 +16,7 @@ cat_one = Cat.new("crookshanks", "nervous")
 
 cat_two = Cat.new("mr. whiskers", "playful")
 
+puts cat_one
+
+puts cat_two
 

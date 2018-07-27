@@ -12,4 +12,6 @@ class Cat
 end
 
 
-cat_one = Cat.new("crookshanks", "")
+cat_one = Cat.new("crookshanks", "nervous")
+
+cat_two = Cat.new("")

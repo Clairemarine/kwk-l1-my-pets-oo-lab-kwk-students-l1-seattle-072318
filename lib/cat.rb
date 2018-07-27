@@ -12,4 +12,4 @@ class Cat
 end
 
 
-cat_one = 
+cat_one = Cat.new

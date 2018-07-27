@@ -1,3 +1,10 @@
 class Cat
-  # code goes here
+ 
+ def in
+ 
+ 
+ 
+ 
+ 
 end
+

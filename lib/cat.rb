@@ -2,7 +2,7 @@ class Cat
  
  def initialize 
    
-  @ 
+  @
  
  
  

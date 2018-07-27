@@ -1,9 +1,11 @@
 class Cat
+  
+  
  
- def initialize 
+ def initialize (name, mood)
    
-  @nervous
-  @playful
+  @name 
+  @mood
  
  end 
 end

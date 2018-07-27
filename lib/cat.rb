@@ -12,9 +12,9 @@ class Cat
 end
 
 
-cat_one = Cat.new("crookshanks", "nervous")
+cat_one = Cat.new ("crookshanks", "nervous")
 
-cat_two = Cat.new("mr. whiskers", "playful")
+cat_two = Cat.new ("mr. whiskers", "playful")
 
 puts cat_one
 

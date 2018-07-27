@@ -1,10 +1,12 @@
 class Cat
  
- def 
+ def initialize 
+   
+   
  
  
  
  
- 
+ end 
 end
 

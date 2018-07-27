@@ -1,6 +1,6 @@
 class Cat
   
-  atrr
+  attr_reader 
  
  def initialize (name, mood)
    

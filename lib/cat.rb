@@ -14,4 +14,4 @@ end
 
 cat_one = Cat.new("crookshanks", "nervous")
 
-cat_two = Cat.new("")
+cat_two = Cat.new("mr. whiskers", "")
